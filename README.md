@@ -10,7 +10,7 @@ ASAPbio (Accelerating Science and Publication in biology) is a scientist-driven 
 ## Slide deck access
 TBA
 
-## Repo Organization
+## Repo organization
 This repository is organized into three folders:
 * __code__ contains code used to access data and generate data viz
 * __data__ contains data used for analysis. Specifically, it contains
