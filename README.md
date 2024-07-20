@@ -12,6 +12,6 @@ ASAPbio (Accelerating Science and Publication in biology) is a scientist-driven 
 This repository is organized into three folders:
 * __code__ contains code used to access data and generate data viz
 * __data__ contains data used for analysis. Specifically, it contains
-  + summary statistics and metadata obtained from bioRxiv using `rbiorxiv`. Note, my analysis was conducted in June 2024. And thus, does *not* contain later data
+  + summary statistics and metadata obtained from bioRxiv using `rbiorxiv`. Note, my analysis was conducted in late June 2024. And thus, does *not* contain bioRxiv updates beyond the date of analysis
   + published research data from [Brierley PLoS Biol 2022 study](https://doi.org/10.1371/journal.pbio.3001285) accessed through [Zenodo (doi: 10.5281/zenodo.6281828)](https://doi.org/10.5281/zenodo.6281828)
 * __figure__ contains data viz that I created
